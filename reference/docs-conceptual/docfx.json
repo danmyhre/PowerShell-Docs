@@ -18,6 +18,9 @@
             "_op_documentIdPathDepotMapping": {
               "reference/docs-conceptual/wmf/": { 
                 "folder_relative_path_in_docset": "wmf/"
+              },
+              "reference/docs-conceptual/gallery/": {
+                "folder_relative_path_in_docset": "gallery/"
               }
             },
             "feedback_system": "GitHub",
